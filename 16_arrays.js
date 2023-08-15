@@ -1,2 +1,5 @@
 console.log('hhhhhh')
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+let y='kumar'
+
+console.log(y)
