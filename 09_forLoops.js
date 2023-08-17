@@ -2,12 +2,27 @@
 //     console.log(i)
 // }
 
+// let marks={
+//     kumar:20,
+//     pranjul:25,
+//     milan:30,
+//     aman:54,
+//     aditya:85
+// }
+
+// for(let a in marks){
+//     console.log(a,marks[a])
+// }
+
+
 let marks={
     kumar:20,
     pranjul:25,
-    milan:30
+    milan:30,
+    aman:54,
+    aditya:85
 }
 
-for(let a in marks){
-    console.log(a,marks[a])
+for( let a of 'marks' ){
+    console.log(a)
 }
