@@ -169,3 +169,6 @@ console.log(x[y])
 
 //
 console.log('kumar pranjul')
+console.log('kumar pranjul')
+
+console.log('kumar pranjul')
