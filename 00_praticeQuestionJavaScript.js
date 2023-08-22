@@ -1,3 +1,4 @@
+//1
 //fibnocie series
 // const number =10
 // const number = parseInt(prompt('Enter the number of terms: '));
@@ -9,6 +10,7 @@
 //     n2 = nextTerm;
 // }
 
+//2
 //factrial number
 // const number = 5
 // if (number < 0) {
@@ -25,7 +27,7 @@
 //     console.log(`The factorial of ${number} is ${fact}.`);
 // }
 
-//
+//3
 // const cartItems = [
 //     {id: 1, qty: 3, price: 300},
 //     {id: 2, qty: 2, price: 100}
@@ -39,7 +41,7 @@
 //   }
 //   getTotal(cartItems)
 
-//
+//4
 // let vowel='aeiouAEIOU'
 // let input='aeiouAEIOU'
 // let vowelCount=0
@@ -50,7 +52,7 @@
 // }
 // console.log(vowelCount)
 
-//
+//5
 // let arr = [1,2,3,4,5,4,3,2,7,8,9,3,2]
 // let newArr=[]
 // for(let i=0;i<arr.length;i++){
@@ -60,7 +62,7 @@
 // }
 // console.log(newArr)
 
-//
+//6
 // let arr = [1,2,3,4,5,4,3,2,7,8,9,3,2]
 // let sum=0
 // for(let i=0;i<arr.length;i++){
@@ -68,9 +70,8 @@
 // }
 // console.log(sum)
 
-//
+//7
 // let arr = [1,2,3,4,5,4,3,2,7,8,9,3,2]
-
 // for(let i=0;i<arr.length-1;i++){
 //     for(let j=0;j<arr.length-i-1;j++){
 //         if(arr[j]>arr[j+1]){//for desending change the compare sign this '>' to this '<'
@@ -82,9 +83,8 @@
 // }
 // console.log(arr)
 
-//
+//8
 // const test = [[3, 2], [1], [4, 12]] //find sum of all odd numbers
-
 // function oddball_sum(nums) {
 //     let sum=0
 //     for(let i=0;i<nums.length;i++){
@@ -98,9 +98,8 @@
 // }
 // oddball_sum(test)
 
-//
+//9
 // let arr = [1, 2, 3, 4, 5, 4, 3, 2, 7, 8, 9, 3, 2];
-
 // let uniqueObj = {};
 // let uniqueArr = arr.map((value) => {
 //   if (!uniqueObj[value]) {
@@ -108,14 +107,11 @@
 //     return value;
 //   }
 // });
-
 // uniqueArr = uniqueArr.filter(value => value !== undefined);
-
 // console.log("Original Array:", arr);
 // console.log("Array with Duplicates Removed:", uniqueArr);
 
-
-//
+//10
 // let str='kumar'
 // let reverse=''
 // for(let i=str.length-1;i>=0;i--){
@@ -123,6 +119,7 @@
 // }
 // console.log(reverse)
 
+//11
 //program to remove duplicate then sort it in desending order
 // let arr = [1,2,3,4,1,2,3,4,5,6,7,8,9,0,5,6,7,8,9,0];
 // let newArr=[]
@@ -143,12 +140,14 @@
 // }
 // console.log(newArr)
 
+//12
 // find the output
-let x = {}, y = { name: "Ronny" }, z = { name: "John" };
-x[y] = { name: "Vivek" };
-x[z] = { name: "Akki" };
-console.log(x[y])
+// let x = {}, y = { name: "Ronny" }, z = { name: "John" };
+// x[y] = { name: "Vivek" };
+// x[z] = { name: "Akki" };
+// console.log(x[y])
 
+//13
 //find the output
 // new Promise(function (resolve, reject) {
 //     setTimeout(() => resolve(1), 1000);
@@ -167,8 +166,5 @@ console.log(x[y])
 //     alert(result); // 4
 //   });
 
-//
-console.log('kumar pranjul')
-console.log('kumar pranjul')
-
-console.log('kumar pranjul')
+//14
+console.log('javascript')

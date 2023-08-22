@@ -25,7 +25,6 @@
 
 //4
 // let arr=[1,2,30,4,50,6,7,83,670]
-
 // let a= arr.map((num)=>{
 //     return num*num
 // })
@@ -33,7 +32,6 @@
 
 //5
 let arr=[1,2,3,4,5]
-
 let a= arr.reduce((x1,x2)=>{
     return x1*x2
 })
