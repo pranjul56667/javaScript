@@ -13,4 +13,4 @@ for (let i = 0; i < chances; i++) {
 
 console.log('hhhhhhhhhhhhhhh')
 console.log('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
-
+console.log('gggggggg')
