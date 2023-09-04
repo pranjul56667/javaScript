@@ -10,17 +10,3 @@ for (let i = 0; i < chances; i++) {
     }
     console.log('try again')
 }
-
-console.log('hhhhhhhhhhhhhhh')
-console.log('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa')
-console.log('gggggggg')
-
-console.log('kkdkdkdkdk')
-console.log('hfhhfhfhfhfh')
-
-console.log('hhhhhhhhhhhhhhhhhhhhhhhhh')
-console.log('kkkkkkkkkkk')
-
-console.log("lllllllllllllllllll")
-console.log('jjjjjjjjjjjjjj')
-
