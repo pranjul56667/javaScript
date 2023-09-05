@@ -12,3 +12,4 @@ for (let i = 0; i < chances; i++) {
 }
 
 console.log('hdhdhdhhdhd')
+console.log('dfdfdffddfd')
