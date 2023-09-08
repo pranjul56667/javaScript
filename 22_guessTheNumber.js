@@ -12,3 +12,6 @@ for (let i = 0; i < chances; i++) {
 }
 console.log('jfjfjfjfjfjdj')
 
+console.log('jkjkjkjkjkjjkjkjk')
+
+
