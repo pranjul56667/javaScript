@@ -10,5 +10,4 @@ for (let i = 0; i < chances; i++) {
     }
     console.log('try again')
 }
-console.log('jfdfsfshvb db jdbjd')
 
