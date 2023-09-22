@@ -167,4 +167,55 @@
 //   });
 
 //14
-console.log('javascript')
+//prime number
+// const num=54
+// prime=true
+// for(let i=2;i<13;i++){
+//     if(num%i==0){
+//         prime=false
+//         break
+//     }
+// }
+// if(prime){
+//     console.log('prime number')
+// }else{
+//     console.log('not a prime number')
+// }
+
+//15
+// let data = [
+//     {
+//         name: "A",
+//         salary: 1000000,
+//         incentive: 25,
+//     },
+//     {
+//         name: "B",
+//         salary: 600000,
+//         incentive: 85,
+//     },
+//     {
+//         name: "C",
+//         salary: 950000,
+//         incentive: 15,
+//     },
+//     {
+//         name: "D",
+//         salary: 1000000,
+//         incentive: 65,
+//     },
+// ];
+// const result = data.reduce((acc, person) => {
+//     const total = person.salary + person.incentive;
+    
+//     acc.totalSalary += total;
+
+//     if (total > acc.maxSalary) {
+//         acc.maxSalary = total;
+//         acc.maxSalaryPerson = person;
+//     }
+
+//     return acc;
+// }, { totalSalary: 0, maxSalary: 0, maxSalaryPerson: null });
+// console.log(result.totalSalary);
+// console.log(result.maxSalaryPerson.name);
